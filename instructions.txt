@@ -1,1 +1,2 @@
 instructions for the git
+its just an example text file.
